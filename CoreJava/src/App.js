@@ -9,6 +9,7 @@ import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
 import Sathish from "./sathish";
 import Sathish1 from "./sathish";
+import Prasanna1 from "./prasanna";
 function App() {
   return (
     <Container>
@@ -24,7 +25,7 @@ function App() {
           <Santhosh />
           <Sathish1/>
           <Kavya/>
-          <Component/>
+          <Prasanna1/>
         </Col>  
         
       </Row>
