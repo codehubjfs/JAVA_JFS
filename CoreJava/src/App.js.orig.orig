@@ -20,8 +20,11 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+<<<<<<< HEAD
           <Sanjev/>
+=======
           <Santhosh />
+>>>>>>> ed42710c0497f2fdc157784e57ee39ea6b8ec9f5
           <Sathish1/>
           <Kavya/>
           <Component/>

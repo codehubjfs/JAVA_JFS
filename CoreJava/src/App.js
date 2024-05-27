@@ -21,6 +21,7 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+          <Sanjev/>
           <Santhosh />
           <Sathish1/>
           <Kavya/>
