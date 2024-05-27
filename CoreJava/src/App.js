@@ -19,6 +19,7 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+          <Kavya/>
         </Col>  
         
       </Row>
