@@ -7,7 +7,6 @@ import { Row, Col } from "react-bootstrap";
 import TasksList from "./components/TasksList";
 import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
-import sushcomponent from "./components/sushcomponent";
 import Sathish from "./sathish";
 import Sathish1 from "./sathish";
 function App() {
@@ -21,14 +20,15 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+<<<<<<< HEAD
           <Santhosh />
+=======
           <Sathish1/>
+>>>>>>> 5d6f5d7da9500973a50326f4ba614c10dda62306
           <Kavya/>
           <Component/>
-          <Sush/>
         </Col>  
-        <sushcomponent />
-        <susmitha />
+        
       </Row>
     </Container>
   );
