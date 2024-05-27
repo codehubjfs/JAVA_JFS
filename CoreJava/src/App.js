@@ -9,7 +9,7 @@ import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
 import Sathish from "./sathish";
 import Sathish1 from "./sathish";
-import Prasanna from "./prasanna";
+import Prasanna1 from "./prasanna";
 function App() {
   return (
     <Container>
@@ -23,11 +23,7 @@ function App() {
           <CustomerTable/>
           <Sathish1/>
           <Kavya/>
-<<<<<<< HEAD
-          <Prasanna/>
-=======
-          <Component/>
->>>>>>> origin/main
+          <Prasanna1/>
         </Col>  
         
       </Row>
