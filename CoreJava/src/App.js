@@ -23,7 +23,11 @@ function App() {
           <CustomerTable/>
           <Sathish1/>
           <Kavya/>
+<<<<<<< HEAD
           <Prasanna/>
+=======
+          <Component/>
+>>>>>>> origin/main
         </Col>  
         
       </Row>
