@@ -8,6 +8,7 @@ import TasksList from "./components/TasksList";
 import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
 import Sathish from "./sathish";
+import Sathish1 from "./sathish";
 function App() {
   return (
     <Container>
@@ -19,6 +20,7 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+          <Sathish1/>
           <Kavya/>
         </Col>  
         
