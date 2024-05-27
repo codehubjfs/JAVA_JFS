@@ -18,6 +18,7 @@ function App() {
           <TasksList /> */}
           <CustomerRegistration/>
           <CustomerTable/>
+          <Sanjev/>
         </Col>  
         
       </Row>
