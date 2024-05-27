@@ -9,7 +9,6 @@ import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
 import Sathish from "./sathish";
 import Sathish1 from "./sathish";
-import Prasanna1 from "./prasanna";
 function App() {
   return (
     <Container>
@@ -21,11 +20,14 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+<<<<<<< HEAD
           <Sanjev/>
+=======
           <Santhosh />
+>>>>>>> ed42710c0497f2fdc157784e57ee39ea6b8ec9f5
           <Sathish1/>
           <Kavya/>
-          <Prasanna1/>
+          <Component/>
         </Col>  
         
       </Row>
