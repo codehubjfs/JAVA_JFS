@@ -19,6 +19,7 @@ function App() {
           <CustomerRegistration/>
           <CustomerTable/>
           <Kavya/>
+          <logesh/>
         </Col>  
         
       </Row>
