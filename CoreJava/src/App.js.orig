@@ -20,8 +20,11 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
+<<<<<<< HEAD
           <Santhosh />
+=======
           <Sathish1/>
+>>>>>>> 5d6f5d7da9500973a50326f4ba614c10dda62306
           <Kavya/>
           <Component/>
         </Col>  
