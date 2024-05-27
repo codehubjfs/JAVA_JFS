@@ -7,7 +7,7 @@ import { Row, Col } from "react-bootstrap";
 import TasksList from "./components/TasksList";
 import CustomerRegistration from "./components/CustomerRegistration";
 import CustomerTable from "./components/CustomerTable";
-
+import sushcomponent from "./components/sushcomponent";
 function App() {
   return (
     <Container>
@@ -19,7 +19,8 @@ function App() {
           <CustomerRegistration/>
           <CustomerTable/>
         </Col>  
-        
+        <sushcomponent />
+        <susmitha />
       </Row>
     </Container>
   );
