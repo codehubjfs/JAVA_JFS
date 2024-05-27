@@ -20,13 +20,11 @@ function App() {
           <CustomerRegistration/>
           <Sathish/>
           <CustomerTable/>
-<<<<<<< HEAD
           <Sanjev/>
-=======
+          <Santhosh />
           <Sathish1/>
           <Kavya/>
           <Component/>
->>>>>>> 5d6f5d7da9500973a50326f4ba614c10dda62306
         </Col>  
         
       </Row>
